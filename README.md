@@ -189,6 +189,7 @@ Your input ->  thanks
     You're welcome!
 ```
 
+![alt text](https://github.com/varsha1883/ChatBot/blob/main/Rasa%20Assistant/data/demo_ss.png)
 
 ## Handoff
 
